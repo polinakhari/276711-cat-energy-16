@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Polina Kharionovskaya](https://up.htmlacademy.ru/adaptive/16/user/276711).
-* Наставник: `Неизвестно`.
+* Наставник: `Polina Kharionovskaya`.
 
 ---
 
